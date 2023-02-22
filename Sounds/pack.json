@@ -1,0 +1,10 @@
+{
+  "name": "Left 4 Dead 2 Sounds",
+  "description": "Makes your Steam Deck sound like the Left 4 Dead 2 UI.",
+  "author": "Focqs",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
